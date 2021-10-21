@@ -15,7 +15,7 @@ Hello, I am Mohit Gupta a final year undergraduate from GGSIPU, Delhi. I'm a pas
 <br><b><i align="center">Thought : "Never be an option, Be the only option!”</i></b>
 </p>
 
-✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ Call me: ***He/Him*** or ***TeamWorker*** 😊 <br>
 ✔ I'm currently working on REST, React & PostgreSQL/MySQL <br>
 ✔ I’m currently learning about Database Design & GeoDjango/GIS<br>
 ✔ I’m looking to collaborate with any Open - Source Django/Nodejs projects & communities.<br>
