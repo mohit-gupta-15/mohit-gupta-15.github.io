@@ -11,15 +11,15 @@ redirect_from:
 <hr>
 <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mohit Gupta </h1>
 <p><em>
-Hello, I am Mohit Gupta a <b>final year</b> undergraduate from <b>GGSIPU</b>, Delhi</a>. I'm <b>a passionate self learner</b> a <b>full stack Web Developer & Data Engineer</b> who is <b>obsessed</b> with the <b>Data & Technologies.</b> and always looking for find patterns of which are hidden in the data. </em> 
+Hello, I am Mohit Gupta a final year undergraduate from GGSIPU, Delhi. I'm a passionate self learner a full stack Web Developer & Data Engineer who is obsessed with the Data & Technologies and always looking for find patterns of which are hidden in the data. </em> 
 <br><b><i align="center">Thought : "Never be an option, Be the only option!”</i></b>
 </p>
 
 ✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I'm currently working on **REST, React & PostgreSQL/MySQL** <br>
-✔ I’m currently learning about **Database Design & GeoDjango/GIS**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source Django/Nodejs projects** & communities.<br>
-✔ My Skills: **Web Development, Django, Django REST framework, Python, Reactjs, MySQL, PostgreSQL, Git, GitHub, Databases, Heroku, AWS.**<br>
+✔ I'm currently working on REST, React & PostgreSQL/MySQL <br>
+✔ I’m currently learning about Database Design & GeoDjango/GIS🥰<br>
+✔ I’m looking to collaborate with any Open - Source Django/Nodejs projects & communities.<br>
+✔ My Skills: Web Development, Django, Django REST framework, Python, Reactjs, MySQL, PostgreSQL, Git, GitHub, Databases, Heroku, AWS.<br>
 ✔ *I Always try to learn something new & try to complete all my tasks before the deadline with maximum accuracy!* 😎<br>
 
 Recently, I'd completed my summer **Research & Development** Internship at **eYantra Labs, Indian Institute of Technology, Bombay** under the guidance of **Dr. Kavi Arya**. 
