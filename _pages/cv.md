@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Electronics & Communication Engineering, GGSIPU, Delhi
+* B.Tech in Electronics & Communication Engineering, GGSIPU, Delhi, 2018-22
   * CGPA: 9.53/10.00
-* Senior Secondary (XII), Science, Anglo Sanskrit V.J Sr Sec School, New Delhi
+* Senior Secondary (XII), Science, Anglo Sanskrit V.J Sr Sec School, New Delhi, 2017-18
   * Percentage: 86.00 %
-* Secondary (X), Science, Anglo Sanskrit V.J Sr Sec School, New Delhi
+* Secondary (X), Science, Anglo Sanskrit V.J Sr Sec School, New Delhi, 2015-16
   * CGPA: 9.20/10.00
 
 Work experience
