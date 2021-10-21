@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume/Cv"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+**Download Resume from** [here](https://mohit-gupta-15.github.io/files/)
 
 Education
 ======
