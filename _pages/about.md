@@ -17,7 +17,7 @@ Hello, I am Mohit Gupta a final year undergraduate from GGSIPU, Delhi. I'm a pas
 
 ✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I'm currently working on REST, React & PostgreSQL/MySQL <br>
-✔ I’m currently learning about Database Design & GeoDjango/GIS🥰<br>
+✔ I’m currently learning about Database Design & GeoDjango/GIS<br>
 ✔ I’m looking to collaborate with any Open - Source Django/Nodejs projects & communities.<br>
 ✔ My Skills: Web Development, Django, Django REST framework, Python, Reactjs, MySQL, PostgreSQL, Git, GitHub, Databases, Heroku, AWS.<br>
 ✔ *I Always try to learn something new & try to complete all my tasks before the deadline with maximum accuracy!* 😎<br>
