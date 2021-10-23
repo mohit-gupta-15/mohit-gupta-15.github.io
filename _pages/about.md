@@ -15,12 +15,12 @@ Hello, I am Mohit Gupta a final year undergraduate from GGSIPU, Delhi. I'm a pas
 <br><b><i align="center">Thought : "Never be an option, Be the only option!”</i></b>
 </p>
 
-✔ Call me: ***He/Him*** or ***TeamWorker*** 😊 <br>
-✔ I'm currently working on REST, React & PostgreSQL/MySQL <br>
-✔ I’m currently learning about Database Design & GeoDjango/GIS<br>
-✔ I’m looking to collaborate with any Open - Source Django/Nodejs projects & communities.<br>
-✔ My Skills: Web Development, Django, Django REST framework, Python, Reactjs, MySQL, PostgreSQL, Git, GitHub, Databases, Heroku, AWS.<br>
-✔ *I Always try to learn something new & try to complete all my tasks before the deadline with maximum accuracy!* 😎<br>
+* ✔ Call me: ***He/Him*** or ***TeamWorker*** 😊 <br>
+* ✔ I'm currently working on REST, React & PostgreSQL/MySQL <br>
+* ✔ I’m currently learning about Database Design & GeoDjango/GIS<br>
+* ✔ I’m looking to collaborate with any Open - Source Django/Nodejs projects & communities.<br>
+* ✔ My Skills: Web Development, Django, Django REST framework, Python, Reactjs, MySQL, PostgreSQL, Git, GitHub, Databases, Heroku, AWS.<br>
+* ✔ *I Always try to learn something new & try to complete all my tasks before the deadline with maximum accuracy!* 😎<br>
 
 Recently, I'd completed my summer **Research & Development** Internship at **eYantra Labs, Indian Institute of Technology, Bombay** under the guidance of **Dr. Kavi Arya**. 
 Also worked at **BotLab Dynamics** at **Indian Institute of Technology, Delhi** under **Dr. Sarita Ahlawat**.
