@@ -48,7 +48,7 @@ Skills / Area of Interest
 * **Framework**: Django, Django REST, Nodejs, Reactjs, Expressjs, Leaflet.
 * **Databases**: MySQL, PostgreSQL, MongoDB, Firebase RTDB.
 * **Tools**: VScode, Github, Sublime, PyCharm, Postman
-* **Cloud**: Heroku, Netlify, AWS.
+* **Cloud**: Heroku, AWS(Basic).
 * **Interest**: GIS, Machine Learning, Computer Vision. 
 
 Publications
