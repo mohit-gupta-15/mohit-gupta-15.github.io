@@ -1,6 +1,6 @@
 ---
 title: "InvestoPay"
-excerpt: "The goal of investoPay is to make investment easy and part of daily life.<br/><img src='/images/investopay.png'>"
+excerpt: "The goal of investoPay is to make investment easy and part of daily life.<br/><br/><img src='/images/investopay.png'><br/>"
 collection: portfolio
 ---
 
