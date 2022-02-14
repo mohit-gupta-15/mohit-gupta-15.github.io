@@ -1,11 +1,11 @@
 ---
 title: "Intelligent Parcel Scanning & Sorting System"
-excerpt: "The goal of this project is to make the current railways parcel management system more efficient, fast and cost effective<br/><br/>"
+excerpt: "This project suggests a novel way to make this process smooth, cost efficient and less human intervention system that will help railways and airports to manage parcels from the entry in the database to delivery to the destination.<br/><br/>"
 collection: portfolio
 ---
 
-<img src='/images/investopay.png'><br/><br/>
-When a user pays at a restaurant, he/she just misses that one rupee and gives it as a tip, what **Investopay** does is invest that 1 rupee in stocks.<br/>
-InvestoPay is a similar take on investing your small leftovers to introduce a habit of investing. The way we differed was our UX. InvestoPay works on the user opening the app often. Hence the concept of both Payments through the app and learnings on the go was introduced. <br/>
-You can check it [here](https://investo-pay.herokuapp.com/)
-
+<img src='/images/map_image.png'><span style="width: 50px;"></span><img src='/images/circuit.jpeg'><br/><br/>
+This proposal is a fine blend of IoT and Artificial Intelligence in effectively solving the real-time problem.<br/>
+Making use of this system with some standard improvements will reduce time and man power in scanning and sorting of parcels. Using the web interface to gain a real-time parcel tracking and managing the sensors, will greatly increase the performance, feedback and profit of the organization. Our model has higher accuracy, precision than previously
+stated model in the table below. <br/><br/>
+<img src='/images/model_results.PNG'><br/><br/>
