@@ -4,9 +4,6 @@ collection: publications
 permalink: /publication/Intelligent-Parcel-Management-System
 excerpt: 'In this paper, We have designed a fully-fledged solution using IoT and machine learning to assist railways in performing parcel management operation efficiently'
 date: 13-14 Feb 2022
-venue: ''
-paperurl: ''
-citation: ''
 ---
 
 **Abstract**
