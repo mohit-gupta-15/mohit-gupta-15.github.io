@@ -49,7 +49,7 @@ Skills / Area of Interest
 * **Databases**: MySQL, PostgreSQL, MongoDB, Firebase RTDB.
 * **Tools**: VScode, Github, Sublime, PyCharm, Postman
 * **Cloud**: Heroku, AWS(Basic).
-* **Interest**: GIS, Machine Learning, Computer Vision. 
+* **Interest**: Data Engineering, Operating Systems, Computer Architecture, IoT, Computer Vision, and Networking
 
 Publications
 ======
