@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download Resume from** [here](https://mohitgupta15.live/files/Mohit_Gupta.pdf)
+**Download CV from** [here](https://mohitgupta15.live/files/Mohit_Gupta.pdf)
 
 Education
 ======
