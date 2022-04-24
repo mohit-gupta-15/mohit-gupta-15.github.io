@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <hr>
-<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mohit Gupta </h1>
+<h1>Hi, I am Mohit Gupta </h1>
 <p><em>
 Hello, I am Mohit Gupta a final year undergraduate from GGSIPU, Delhi. I'm a passionate self learner a full stack Web Developer & Data Engineer who is obsessed with the Data & Technologies and always looking for find patterns of which are hidden in the data. </em> 
 <br><b><i align="center">Thought : "Never be an option, Be the only option!”</i></b>
